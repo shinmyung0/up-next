@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/shiyoon/AndroidStudioProjects/ThingsTodo/colorpicker/build/intermediates/res/merged/androidTest/debug/layout/color_picker_dialog.xml",
+        "source": "/Users/shiyoon/AndroidStudioProjects/ThingsTodo/colorpicker/build/intermediates/bundles/debug/res/layout/color_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/shiyoon/AndroidStudioProjects/ThingsTodo/colorpicker/build/intermediates/res/merged/androidTest/debug/layout/color_picker_swatch.xml",
+        "source": "/Users/shiyoon/AndroidStudioProjects/ThingsTodo/colorpicker/build/intermediates/bundles/debug/res/layout/color_picker_swatch.xml"
+    }
+]
